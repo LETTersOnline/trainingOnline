@@ -1,6 +1,9 @@
 # vscode
 .vscode/
 
+# intellij
+.idea/
+
 # db
 *.db
 
