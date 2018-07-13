@@ -1,0 +1,13 @@
+# vscode
+.vscode/
+
+# db
+*.db
+
+# python files
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
